@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Scilab>
+    <Window height="1047" state="0" uuid="b53123a5-a006-4932-9608-2913233c707b" width="974" x="953" y="0">
+        <DockingPortNode>
+            <DockableNode dockableId="4cda2233-c024-4114-8774-e333982aa790"/>
+        </DockingPortNode>
+    </Window>
+    <SciNotes factory="org.scilab.modules.scinotes.tabfactory.SciNotesTabFactory" height="940" load="SciNotes" uuid="4cda2233-c024-4114-8774-e333982aa790" width="958" winuuid="b53123a5-a006-4932-9608-2913233c707b"/>
+    <Window height="500" state="0" uuid="f95cfccd-e205-4452-9dec-c5d8ef80ed33" width="500" x="182" y="182">
+        <DockingPortNode>
+            <DockableNode dockableId="1973b318-0abb-44de-9a83-a4951d445b53"/>
+        </DockingPortNode>
+    </Window>
+    <CodeNavigator factory="org.scilab.modules.scinotes.tabfactory.CodeNavigatorTabFactory" height="418" load="SciNotes" uuid="1973b318-0abb-44de-9a83-a4951d445b53" width="484" winuuid="f95cfccd-e205-4452-9dec-c5d8ef80ed33"/>
+    <Window height="500" state="0" uuid="069b9142-8fd2-4dc9-8dd7-bd5bc86b5fce" width="500" x="401" y="101">
+        <DockingPortNode>
+            <DockableNode dockableId="011a2382-0f36-4207-a93a-ac774447bb1d"/>
+        </DockingPortNode>
+    </Window>
+    <CodeNavigator factory="org.scilab.modules.scinotes.tabfactory.CodeNavigatorTabFactory" height="418" load="SciNotes" uuid="011a2382-0f36-4207-a93a-ac774447bb1d" width="484" winuuid="069b9142-8fd2-4dc9-8dd7-bd5bc86b5fce"/>
+    <Window height="741" state="0" uuid="584a15f5-8692-469f-9369-33980b55e9a3" width="1326" x="466" y="175">
+        <DockingPortNode>
+            <DockableNode dockableId="d1ef5062-533e-4aee-b12a-66740820d6d1"/>
+        </DockingPortNode>
+    </Window>
+    <HelpBrowser factory="org.scilab.modules.gui.tabfactory.HelpBrowserTabFactory" height="659" load="" uuid="d1ef5062-533e-4aee-b12a-66740820d6d1" width="1310" winuuid="584a15f5-8692-469f-9369-33980b55e9a3"/>
+    <Window height="1047" state="0" uuid="796aed0c-b5dd-473c-9495-479e3ae11c58" width="974" x="953" y="0">
+        <DockingPortNode>
+            <DockableNode dockableId="79f8f8b4-5fed-41b2-99b3-8548106796ce"/>
+        </DockingPortNode>
+    </Window>
+    <SciNotes factory="org.scilab.modules.scinotes.tabfactory.SciNotesTabFactory" height="940" load="SciNotes" uuid="79f8f8b4-5fed-41b2-99b3-8548106796ce" width="958" winuuid="796aed0c-b5dd-473c-9495-479e3ae11c58"/>
+    <VariableBrowser factory="org.scilab.modules.ui_data.tabfactory.VariableBrowserTabFactory" height="468" load="" uuid="3b649047-6a71-4998-bd8e-00d367a4793c" width="90" winuuid="00000000-0000-0000-0000-000000000000"/>
+    <FileBrowser factory="org.scilab.modules.ui_data.tabfactory.FileBrowserTabFactory" height="468" load="" uuid="3b649047-6a71-4998-bd8e-00d367a4793d" width="141" winuuid="00000000-0000-0000-0000-000000000000"/>
+    <Window height="324" state="0" uuid="435a27e0-d081-402e-8346-71eebe0b50f5" width="543" x="760" y="344">
+        <DockingPortNode>
+            <DockableNode dockableId="00000000-0000-0000-0000-000000000000"/>
+        </DockingPortNode>
+    </Window>
+    <Console factory="org.scilab.modules.core.ConsoleTabFactory" height="217" load="Console" uuid="00000000-0000-0000-0000-000000000000" width="527" winuuid="435a27e0-d081-402e-8346-71eebe0b50f5"/>
+</Scilab>
